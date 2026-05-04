@@ -1,6 +1,6 @@
 .DS_Store
 *.docx
 *.md
-images/
-plans/
-docs/
+/images/
+/plans/
+/docs/
